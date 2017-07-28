@@ -1,0 +1,8 @@
+<suite name="Ohrm1">
+
+	<test name="ParametersTest1">
+		<classes>
+			<class name="com.tng.ohrm.OhrmAddEmp" />
+		</classes>
+	</test>
+</suite>

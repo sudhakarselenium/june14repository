@@ -1,0 +1,14 @@
+<suite name="Ohrm">
+
+	<test name="ParametersTest">
+
+<parameters>
+	<parameter name="brname" value="firefox" />
+	<parameter name="aUrl" value="http://opensource.demo.orangehrmlive.com/" />
+</parameters>
+
+		<classes>
+			<class name="com.tng.ohrm.OhrmAddEmp" />
+		</classes>
+	</test>
+</suite>

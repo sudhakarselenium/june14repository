@@ -18,7 +18,7 @@ public class OhrmAddEmp {
 	public void openApplication() {
 		//first change
 		System.out.println("this is first change");
-		
+		System.out.println("this is second change");
 		
 		// configure driver exe
 		System.setProperty("webdriver.chrome.driver", "F:\\SeleniumSoftware\\BrowserDrivers\\chromedriver.exe");
